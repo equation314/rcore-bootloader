@@ -5,7 +5,7 @@ authors = ["equation314 <equation618@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-xmas-elf = "0.6.2"
+xmas-elf = "0.10.0"
 fixedvec = "0.2.3"
 bootinfo = { path = "bootinfo" }
 
